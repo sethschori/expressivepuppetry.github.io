@@ -6,7 +6,7 @@ sitemap:
   priority: 0.6
   changefreq: 'monthly'
 ---
-You can reach me by email at [marge@expressivepuppetry.com](mailto:marge@expressivepuppetry.com) or by phone at +1 (860) 375-0872.
+You can reach me by email at [marge@expressivepuppetry.com](mailto:marge@expressivepuppetry.com) or by phone at +1 (860) 840-4853.
 
 **contact-sidebar**
 
