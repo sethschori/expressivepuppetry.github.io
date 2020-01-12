@@ -30,7 +30,7 @@ residents and family members. Additionally, my book, *[A Hand in Healing: The
 Workshops
 ---------
 
-My hands-on, interactive workshops educate, energize and inspire participants on how to create heart-to-heart connections using puppets as powerful therapeutic healing tools. [Learn more!](workshops/)
+My hands-on, interactive workshops educate, energize and inspire participants on how to create heart-to-heart connections using puppets as powerful therapeutic healing tools. [Learn more!](workshops)
 
 ![Marge Schneider helping a client with a dog puppet](/assets/DogPuppet1.jpg)
 
