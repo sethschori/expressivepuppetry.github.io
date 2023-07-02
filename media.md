@@ -20,4 +20,6 @@ The Hartford Courant, July 18, 2005
 - [Expressive Puppetry in Hospice](/media/advance-nurses-expressive-puppetry-hospice), ADVANCE for Nurses, May 
 31, 2004
 
-- [Health Literacy from A to Z](https://books.google.com/books?id=mK7IdMmGwhIC&lpg=PA266&dq=%22marge%20schneider%22%20%22puppeteer%22&pg=PA266#v=onepage&q=%22marge%20schneider%22%20%22puppeteer%22&f=false), Helen Osborne, 2005
+- [Health Literacy from A to Z](https://books.google.com/books?id=mK7IdMmGwhIC&lpg=PA266&dq=%22marge%20schneider%22%20%22puppeteer%22&pg=PA266#v=onepage&q=%22marge%20schneider%22%20%22puppeteer%22&f=false), Helen Osborne, 2005  
+
+- ["Expressive Puppetry In Hospice Care](/media/caring-magazine-expressive-puppetry-in-hospice.pdf), Timothy Boon, CARING Magazine vol. XX no. 10, October 2001
