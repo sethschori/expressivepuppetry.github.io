@@ -51,6 +51,9 @@ more information, please [contact me](/contact). I look forward to sharing how y
 “You stirred me deeply with your presentation. Inspiring and creative on so many levels.”
 <br/>*– Barbara Pyles, RN*
 
+“Marge occupies the exquisite space of being deeply grounded and wide open to the essence of the other.”
+<br/>*– Joan Caplan, grief and loss specialist*
+
 ---
 
 **workshops-sidebar**
